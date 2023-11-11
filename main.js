@@ -19,4 +19,5 @@ z = (x * y * 9) / 2000
 // console.log(`Pi: ${Math.PI} == ${z} / ${z = 5}.`)
 
 console.log(`Done: ${z}`);
+console.log(`actually done.`)
 // pi=5;
